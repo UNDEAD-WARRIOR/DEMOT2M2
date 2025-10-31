@@ -8,7 +8,7 @@ Jumlah kesempatan menyesuaikan level.
 
 Menampilkan sisa kesempatan setelah setiap tebakan.
 
-💻 Cara Menjalankan
+💻 Cara Menjalankan Codingan
 
 Buka program Java (misalnya NetBeans atau VS Code).
 
